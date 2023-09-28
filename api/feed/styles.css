@@ -1,0 +1,87 @@
+/* Header styles */
+header {
+    background-color: #007BFF;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+/* Button styles */
+.button-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Feed container styles */
+.feed {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Post styles */
+.post {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+.post-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.post-text {
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.post-user {
+    font-size: 14px;
+    color: #555;
+}
+
+/* Button styles within posts */
+.post-likes-button,
+.post-comments-button {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 5px 10px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Comments container styles */
+.comments-container {
+    margin-top: 10px;
+}
+
+.comment {
+    background-color: #f7f7f7;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 5px;
+}
