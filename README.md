@@ -1,4 +1,6 @@
-# Social network about travel tips
+# travel-network
+
+Social network about travel tips.
 
 This was an academic assignment, therefore it was not focused on clean code (specially in frontend)
 I did not find a lot of examples of social networks in golang, so feel free to use it to have some examples of Golang code and suggest changes 
